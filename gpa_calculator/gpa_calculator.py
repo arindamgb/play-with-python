@@ -44,7 +44,7 @@ elif average <= 80:
 elif average <= 90:
     grade = 'A'
 elif average <= 100:
-    grade = 'A'
+    grade = 'A+'
 else:
     grade = 'Not available'
 
